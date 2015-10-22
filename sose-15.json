@@ -84,14 +84,14 @@
           "image": "Masken-1.png",
           "thumb": "Masken-1-thumb.png",
           "repo-url": "https://github.com/Johannesproximo/Masken",
-          "abstract": " Im Projekt „Masken“ geht es darum Masken mit Hilfe eines Algorithmus es zu erstellen. Dabei wurde zuerst Algorithmen in schriftlicher Form aufgeschrieben und diesen dann von Personen ausgeführt. Nach mehreren Versuchen wurde dieser Algorithmus in einen Digitalen Code übertragen und dabei ein Anwendungsbeispiel gefunden. In meinem Fall wurden es Masken."
+          "abstract": "The projekt "Mask"(masks) creates masks with help of an algorithm. Therefore we wrote algorithm in writing form and accomplished on paper it with the help of Humans. After different tries we convert the algorithm in digital (Python) and were looking for an application oriented use of it. In my case it becomes masks."
       },
       "slime": {
           "title": "Pille-der-Schleimpilz",
           "image": "Pille-2.png",
           "thumb": "Pille-2-thumb.png",
           "repo-url": "https://github.com/Johannesproximo/Pille-der-Schleimpilz",
-          "abstract": " Pille der Schleimpilz (Physarum polycephalum)ist ein Projekt in dem wir versuchen das Wachstum (Form, Farbe) des Pilzes zu beeinflussen um somit Zeichen und Buchstaben entstehen zu lassen und diese in einem Zeitraffer festzuhalten. Danach bearbeiten wir diese Video mit Processing, OpenCV und bereiten die Entstehung visuel auf."
+          "abstract": "Pille the slim mold (Physarum polycephalum) is a project. There I try to influent the growing of a slim mold (shape, color), to create sign with help of the mushroom and record the process in a time laps. After that we try to edit the time Lapps Clip with Processing, OpenCV and try to work out a nice growing visualization."
       },
       "motor-poster": {
           "title": "Das-Blutende-Plakat",
@@ -100,7 +100,7 @@
           "video-prototyp-url": "http://vimeo.com/1234567",
           "video-url": "http://vimeo.com/1234567",
           "repo-url": "https: //github.com/Johannesproximo/Das-Blutende-Plakat",
-          "abstract": "Pille der Schleimpilz (Physarum polycephalum)ist ein Projekt in dem wir versuchen das Wachstum (Form, Farbe) des Pilzes zu beeinflussen und somit Zeichen entstehen zu lassen und dies in einem Zeitraffer festzuhalten. Danach bearbeiten wir diese Video mit Processing, OpenCV und bereiten die Entstehung visuel auf."
+          "abstract": "The bleeding Poster change is view if someone receive an short message or a call next to the poster. The increasing of electromagnetic waves trigger the poster and it is going to start bleeding and reveals a pictogram."
       }
     },
     {
