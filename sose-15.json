@@ -9,9 +9,7 @@
       "repos": [
         "algorithmus_randomcircles",
         "slime_mold_bob",
-        "motor_poster_adaptingpicture",
-        "-",
-        "-"
+        "motor_poster_adaptingpicture"
       ],
       "algorithm": {
         "title": "randomcircles",
