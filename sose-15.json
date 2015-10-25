@@ -70,39 +70,39 @@
       }
     },
     {
-      "author": "Fabian Dinklage",
-      "github": "fdnklg",
-      "url": "fabiandinklage.com",
-      "contact": "mail@fabiandinklage.com",
-      "repos": [
-        "projectAlgorithm",
-        "projectSlimeMold",
-        "projectMotorPoster"
-      ],
-      "algorithm": {
-        "title": "algorithm heat wax",
-        "image": "ldr-1.png",
-        "thumb": "ldr-1-thumb.png",
-        "repo-url": "https://github.com/fdnklg/projectAlgorithm",
-        "abstract": "The core of the analog version of the algorithm is the generation of random wax drops on paper based on the age of the executing person. The digital result is a realized with python in processing and the openCV library. OpenCV’s blob detection is counting every blob and draws some scaled contours around it."
-      },
-      "slime": {
-        "title": "slime mold emma",
-        "image": "ldr-2.png",
-        "thumb": "ldr-2-thumb.png",
-        "repo-url": "https://github.com/fdnklg/projectSlimeMold",
-        "abstract": "The Idea is influenced by the organic shapes which resulted in the first project. The analysis of the video material ist based on the number of bright pixels counted in every taken picture of the slime mold. The collected data affects the dimensions of the animation in the final result. The geometric elliptical shape is based on the superformula, which was invented 1997. The purpose is the generalization all kinds of elliptical forms. The dataset transforms the ellipsis over time and thus visualizes the growth of the slime mold."
-      },
-      "motor-poster": {
-        "title": "draw me a guiloché",
-        "image": "ldr-3.png",
-        "thumb": "ldr-3-thumb.png",
-        "repo-url": "https://github.com/fdnklg/projectMotorPoster",
-        "video-prototyp-url": "https://vimeo.com/131745694",
-        "video-url": "https://vimeo.com/134408546",
-        "abstract": "The drawing machine realized the idea of transforming the earlier computer generated elliptic patterns into the analog world with using classic tools like pen and paper."
-      }
-    },
+  "author": "Fabian Dinklage",
+  "github": "fdnklg",
+  "url": "http://fabiandinklage.com",
+  "contact":"mail@fabiandinklage.com",
+  "repos": [
+    "projectAlgorithm",
+    "projectSlimeMold",
+    "projectMotorPoster"
+  ],
+  "algorithm": {
+    "title": "wax formations",
+    "image": "waxformations.png",
+    "thumb": "waxformations-thumb.png",
+    "repo-url": "https://github.com/fdnklg/projectAlgorithm",
+    "abstract": "The core of the analog version of the algorithm is the generation of random wax drops on paper based on the age of the executing person. The digital result is a realized with python in processing and the openCV library. OpenCV’s blob detection is counting every blob and draws some scaled contours around it."
+  },
+  "slime": {
+    "title": "slime mold emma",
+    "image": "slime-mold-emma.png",
+    "thumb": "slime-mold-emma-thumb.png",
+    "repo-url": "https://github.com/fdnklg/projectSlimeMold",
+    "abstract": "The Idea is influenced by the organic shapes which resulted in the first project. The analysis of the video material ist based on the number of bright pixels counted in every taken picture of the slime mold. The collected data affects the dimensions of the animation in the final result. The geometric elliptical shape is based on the superformula, which was invented 1997. The purpose is the generalization all kinds of elliptical forms. The dataset transforms the ellipsis over time and thus visualizes the growth of the slime mold."
+  },
+  "motor-poster": {
+    "title": "draw me a guiloché",
+    "image": "draw-me-a-guiloche.png",
+    "thumb": "draw-me-a-guiloche-thumb.png",
+    "repo-url": "https://github.com/fdnklg/projectMotorPoster",
+    "video-prototyp-url": "https://vimeo.com/131745694",
+    "video-url": "https://vimeo.com/134408546",
+    "abstract": "The drawing machine realized the idea of transforming the earlier computer generated elliptic patterns into the analog world with using classic tools like pen and paper."
+  }
+},
     {
       "author": "Johannes Leick",
       "github": "Johannesproximo",
