@@ -84,7 +84,7 @@
                 "image": "Masken-1.png",
                 "thumb": "Masken-1-thumb.png",
                 "repo-url": "https://github.com/Johannesproximo/Masken",
-                "abstract": "The projekt Mask(masks) creates masks with help of an algorithm. Therefore we wrote algorithm in writing form and accomplished on paper it with the help of Humans. After different tries we convert the algorithm in digital (Python) and were looking for an application oriented use of it. In my case it becomes masks."
+                "abstract": "The projekt \" Mask \" (masks) creates masks with help of an algorithm. Therefore we wrote algorithm in writing form and accomplished on paper it with the help of Humans. After different tries we convert the algorithm in digital (Python) and were looking for an application oriented use of it. In my case it becomes masks."
             },
             "slime": {
                 "title": "Pille-der-Schleimpilz",
@@ -97,8 +97,8 @@
                 "title": "Das-Blutende-Plakat",
                 "image": "Blut-3.png",
                 "thumb": "Blut-3-thumb.png",
-                "video-prototyp-url": "http://vimeo.com/1234567",
-                "video-url": "http://vimeo.com/1234567",
+                "video-prototyp-url": "https://youtu.be/S5B_It3qDpU",
+                "video-url": "https://youtu.be/S5B_It3qDpU",
                 "repo-url": "https: //github.com/Johannesproximo/Das-Blutende-Plakat",
                 "abstract": "The bleeding Poster change is view if someone receive an short message or a call next to the poster. The increasing of electromagnetic waves trigger the poster and it is going to start bleeding and reveals a pictogram."
             }
